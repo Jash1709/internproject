@@ -64,6 +64,7 @@ p{
 }
 button{
     background-color: #FFD15B;
+    padding:5px;
     color: #6238C7;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 28px;
